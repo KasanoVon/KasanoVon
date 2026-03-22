@@ -1,8 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=200&section=header&text=KasanoVon&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=GitHub+に来ました👋&descAlignY=60&descSize=20)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:c084fc,50:818cf8,100:38bdf8&height=200&section=header&text=かさのぼん☂&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&weight=600&size=22&pause=1000&color=B48EFF&center=true&vCenter=true&width=500&lines=VIPのコテハンです🐈️🐾;よろしくお願いします！🌸;コードを書くのが好きです✨)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&weight=600&size=22&pause=1000&color=B48EFF&center=true&vCenter=true&width=500&lines=VIP(5ch.io)のコテハンです🐈️🐾;よろしくお願いします！🌸;コードを書くのが好きです✨)](https://git.io/typing-svg)
 
 </div>
 
@@ -50,6 +50,6 @@
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:c084fc,50:818cf8,100:38bdf8&height=100&section=footer)
 
 </div>
