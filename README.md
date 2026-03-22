@@ -2,7 +2,7 @@
 
 <img src="./header.png" width="100%" alt="かさのぼん header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&weight=600&size=22&pause=1000&color=5BA3FF&center=true&vCenter=true&width=500&lines=VIP(5ch.io)のコテハンです🐈️;よろしくお願いします！💙;コードを書くのが好きです✨)](https://git.io/typing-svg)
+**VIP(5ch.io)のコテハンです 🐈️ ・ よろしくお願いします！💙 ・ コードを書くのが好きです ✨**
 
 </div>
 
