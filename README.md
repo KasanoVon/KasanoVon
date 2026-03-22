@@ -2,7 +2,7 @@
 
 <img src="./header.png" width="100%" alt="かさのぼん header"/>
 
-**VIP(5ch.io)のコテハンです 🐈️ ・ よろしくお願いします！💙 ・ コードを書くのが好きです ✨**
+![](https://capsule-render.vercel.app/api?type=rect&color=000080&height=44&text=★%20VIP(5ch.io)のコテハンです%20🐈%20よろしくお願いします！%20★&fontSize=16&fontColor=FFFF00&fontAlign=50&fontAlignY=55)
 
 </div>
 
