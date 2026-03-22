@@ -2,7 +2,7 @@
 
 <img src="./header.png" width="100%" alt="かさのぼん header"/>
 
-![](https://capsule-render.vercel.app/api?type=rect&color=000080&height=60&text=★%20VIP(5ch.io)のコテハンです%20★%20よろしく！&fontSize=22&fontColor=FFFF00&fontAlign=50&fontAlignY=60&fontFamily=DotGothic16)
+![](https://capsule-render.vercel.app/api?type=rect&color=000080&height=60&text=★%20VIP(5ch.io)のコテハンです%20★%20よろしくお願いします！&fontSize=22&fontColor=FFFF00&fontAlign=50&fontAlignY=60&fontFamily=DotGothic16)
 
 </div>
 
