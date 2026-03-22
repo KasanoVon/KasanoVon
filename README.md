@@ -1,12 +1,12 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=GitHub+に来ました👋;Welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=GitHub+に来ました👋;よろしくお願いします！)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ 技術スタック
 
 <div align="center">
 
@@ -21,7 +21,7 @@
 
 ---
 
-### 📊 Stats
+### 📊 統計
 
 <div align="center">
 
@@ -38,7 +38,7 @@
 
 ---
 
-### 🚀 Featured Project
+### 🚀 注目プロジェクト
 
 <div align="center">
 
