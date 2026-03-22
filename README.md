@@ -6,11 +6,16 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A1E3A,100:0D2550&height=3&section=header" width="100%"/>
 
-### 🌊 技術スタック 🌊
+<br/>
 
 <div align="center">
+
+<!-- 技術スタック -->
+<table><tr><td align="center">
+<b>🌊 技術スタック 🌊</b>
+</td></tr></table>
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-1E3A7A?style=for-the-badge&logo=typescript&logoColor=B8DEFF)
 ![Python](https://img.shields.io/badge/Python-0E2A5A?style=for-the-badge&logo=python&logoColor=B8DEFF)
@@ -21,35 +26,43 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A1E3A,100:0D2550&height=3&section=header" width="100%"/>
 
-### 📊 統計 ✨
+<br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KasanoVon&show_icons=true&theme=transparent&hide_border=true&title_color=5BA3FF&icon_color=5BA3FF&text_color=93C5FD&include_all_commits=true&count_private=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KasanoVon&layout=compact&theme=transparent&hide_border=true&title_color=5BA3FF&text_color=93C5FD&langs_count=6" height="160"/>
+<!-- 統計 -->
+<table><tr><td align="center">
+<b>📊 統計 ✨</b>
+</td></tr></table>
+
+<img src="https://github-readme-stats.vercel.app/api?username=KasanoVon&show_icons=true&bg_color=0D1F3C&border_color=1E3A7A&title_color=5BA3FF&icon_color=93EDFF&text_color=93C5FD&hide_border=false" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KasanoVon&layout=compact&bg_color=0D1F3C&border_color=1E3A7A&title_color=5BA3FF&text_color=93C5FD&langs_count=6&hide_border=false" height="160"/>
+
+<br/><br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=KasanoVon&background=0D1F3C&border=1E3A7A&ring=5BA3FF&fire=93EDFF&currStreakLabel=5BA3FF&sideLabels=5BA3FF&dates=93C5FD&sideNums=5BA3FF&currStreakNum=93EDFF&locale=ja)](https://git.io/streak-stats)
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A1E3A,100:0D2550&height=3&section=header" width="100%"/>
+
+<br/>
+
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=KasanoVon&theme=transparent&hide_border=true&ring=5BA3FF&fire=93EDFF&currStreakLabel=5BA3FF&sideLabels=5BA3FF&dates=93C5FD&locale=ja)](https://git.io/streak-stats)
+<!-- 注目プロジェクト -->
+<table><tr><td align="center">
+<b>🚀 注目プロジェクト 💙</b>
+</td></tr></table>
+
+[![SubNote](https://github-readme-stats.vercel.app/api/pin/?username=KasanoVon&repo=subscription&bg_color=0D1F3C&border_color=1E3A7A&title_color=5BA3FF&icon_color=93EDFF&text_color=93C5FD)](https://github.com/KasanoVon/subscription)
 
 </div>
 
----
-
-### 🚀 注目プロジェクト 💙
+<br/>
 
 <div align="center">
-
-[![SubNote](https://github-readme-stats.vercel.app/api/pin/?username=KasanoVon&repo=subscription&theme=transparent&hide_border=true&title_color=5BA3FF&icon_color=93EDFF&text_color=93C5FD)](https://github.com/KasanoVon/subscription)
-
-</div>
-
-<div align="center">
-
 <img src="./footer.png" width="100%" alt="かさのぼん footer"/>
-
 </div>
