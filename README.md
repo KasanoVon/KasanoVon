@@ -12,7 +12,7 @@
 
 <div align="center">
 
-![](https://capsule-render.vercel.app/api?type=rect&color=000080&height=40&text=🌊%20技術スタック%20🌊&fontSize=16&fontColor=FFFF00&fontAlign=50&fontAlignY=60&fontFamily=DotGothic16)
+![](https://capsule-render.vercel.app/api?type=rect&color=000080&height=40&text=技術スタック&fontSize=16&fontColor=FFFF00&fontAlign=50&fontAlignY=60&fontFamily=DotGothic16)
 
 <br/>
 
@@ -31,7 +31,7 @@
 
 <div align="center">
 
-![](https://capsule-render.vercel.app/api?type=rect&color=000080&height=40&text=📊%20統計%20✨&fontSize=16&fontColor=FFFF00&fontAlign=50&fontAlignY=60&fontFamily=DotGothic16)
+![](https://capsule-render.vercel.app/api?type=rect&color=000080&height=40&text=統計&fontSize=16&fontColor=FFFF00&fontAlign=50&fontAlignY=60&fontFamily=DotGothic16)
 
 <br/>
 
@@ -50,7 +50,7 @@
 
 <div align="center">
 
-![](https://capsule-render.vercel.app/api?type=rect&color=000080&height=40&text=🚀%20注目プロジェクト%20💙&fontSize=16&fontColor=FFFF00&fontAlign=50&fontAlignY=60&fontFamily=DotGothic16)
+![](https://capsule-render.vercel.app/api?type=rect&color=000080&height=40&text=注目プロジェクト&fontSize=16&fontColor=FFFF00&fontAlign=50&fontAlignY=60&fontFamily=DotGothic16)
 
 <br/>
 
