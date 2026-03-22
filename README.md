@@ -2,17 +2,17 @@
 
 <img src="./header.png" width="100%" alt="かさのぼん header"/>
 
-![](https://capsule-render.vercel.app/api?type=rect&color=000080&height=50&text=★%20VIP(5ch.io)のコテハンです%20★%20よろしくお願いします！&fontSize=18&fontColor=FFFF00&fontAlign=50&fontAlignY=58&fontFamily=DotGothic16)
+![](https://capsule-render.vercel.app/api?type=rect&color=000080&height=60&text=★%20VIP(5ch.io)のコテハンです%20★%20よろしく！&fontSize=22&fontColor=FFFF00&fontAlign=50&fontAlignY=60&fontFamily=DotGothic16)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A1E3A,100:0D2550&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A1E3A,100:0D2550&height=4&section=header" width="100%"/>
 
 <br/>
 
 <div align="center">
 
-![](https://capsule-render.vercel.app/api?type=rect&color=000080&height=40&text=技術スタック&fontSize=16&fontColor=FFFF00&fontAlign=50&fontAlignY=60&fontFamily=DotGothic16)
+![](https://capsule-render.vercel.app/api?type=rect&color=000080&height=54&text=技術スタック&fontSize=24&fontColor=FFFF00&fontAlign=50&fontAlignY=62&fontFamily=DotGothic16)
 
 <br/>
 
@@ -25,13 +25,13 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A1E3A,100:0D2550&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A1E3A,100:0D2550&height=4&section=header" width="100%"/>
 
 <br/>
 
 <div align="center">
 
-![](https://capsule-render.vercel.app/api?type=rect&color=000080&height=40&text=統計&fontSize=16&fontColor=FFFF00&fontAlign=50&fontAlignY=60&fontFamily=DotGothic16)
+![](https://capsule-render.vercel.app/api?type=rect&color=000080&height=54&text=統計&fontSize=24&fontColor=FFFF00&fontAlign=50&fontAlignY=62&fontFamily=DotGothic16)
 
 <br/>
 
@@ -44,13 +44,13 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A1E3A,100:0D2550&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A1E3A,100:0D2550&height=4&section=header" width="100%"/>
 
 <br/>
 
 <div align="center">
 
-![](https://capsule-render.vercel.app/api?type=rect&color=000080&height=40&text=注目プロジェクト&fontSize=16&fontColor=FFFF00&fontAlign=50&fontAlignY=60&fontFamily=DotGothic16)
+![](https://capsule-render.vercel.app/api?type=rect&color=000080&height=54&text=注目プロジェクト&fontSize=24&fontColor=FFFF00&fontAlign=50&fontAlignY=62&fontFamily=DotGothic16)
 
 <br/>
 
